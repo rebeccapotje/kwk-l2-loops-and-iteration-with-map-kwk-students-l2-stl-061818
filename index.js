@@ -24,5 +24,5 @@ function nameToAttributes(list) {
 }
 
 function attributesToPhrase(name) {
-  const
+  
 }
